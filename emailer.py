@@ -2,7 +2,7 @@ import smtplib
 from email.mime.text import MIMEText
 
 app_email = "WeebScraper@gmail.com"
-app_password = "chnqsdhbejgcptyk"
+app_password = ""
 
 all_user_emails = [app_email]
 
